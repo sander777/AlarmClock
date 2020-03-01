@@ -1,0 +1,9 @@
+C:\Users\Sander\source\repos\AlarmClock\AlarmClock\bin\Debug\AlarmClock.exe.config
+C:\Users\Sander\source\repos\AlarmClock\AlarmClock\bin\Debug\AlarmClock.exe
+C:\Users\Sander\source\repos\AlarmClock\AlarmClock\bin\Debug\AlarmClock.pdb
+C:\Users\Sander\source\repos\AlarmClock\AlarmClock\obj\Debug\AlarmClock.Properties.Resources.resources
+C:\Users\Sander\source\repos\AlarmClock\AlarmClock\obj\Debug\AlarmClock.ServerForm.resources
+C:\Users\Sander\source\repos\AlarmClock\AlarmClock\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\Sander\source\repos\AlarmClock\AlarmClock\obj\Debug\AlarmClock.exe
+C:\Users\Sander\source\repos\AlarmClock\AlarmClock\obj\Debug\AlarmClock.pdb
+C:\Users\Sander\source\repos\AlarmClock\AlarmClock\obj\Debug\Server.csprojAssemblyReference.cache
